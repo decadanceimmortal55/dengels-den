@@ -1,0 +1,64 @@
+<!-- Start of first page -->
+<!DOCTYPE html>
+<title></title>
+</head>
+<body> <a href="http://www.dengelsden.com/">Hyperlink code"</a>
+
+    <div data-role="page" id="About Me">
+        <div data-role="Header">
+             <h1>Welcome to my Homepage!</h1>
+
+        </div>
+        <div data-role="page" id="page">
+            <div data-role="content">
+                 <h2>Hello, I'm Nyah Gilmore, and I am a beginner computer
+                coder, artist and fantasy writer. Welcome to my homepage! :3
+                //put more information here later</h2>
+
+                <div data-role="Header">
+                     <h1>Projects:</h1>
+
+                </div>
+                <!-- Start of second page -->
+                <div data-role="content2">
+                     <h1>Ice Cream Generator</h1>
+
+                     <h2>My Ice Cream Generator project is basically how I used
+                    randrange in Python to randomly generate Ice cream flavours
+                    and even toppings depending on your personality and
+                    name.</h2><a href="http://tinypic.com?ref=2hpmulg" target="blank"><img alt="Image and video hosting by TinyPic"
+                    border="0" src="http://i61.tinypic.com/2hpmulg.png"></a>
+
+                     <h2>SCRATCH AND OTHER PROJECTS</h2>
+
+                     <h2>In one game I made, which is called "PIG", it is where
+                    one of the two players must hit 100 total and win the game
+                    by the roll of the die. Each time they roll, the score will
+                    add up unless they roll a one, in which their turn total
+                    will reduce to zero and the other player will have a chance
+                    to roll. If you click "hold", your turn total will be added
+                    to your total score amount.</h2>
+
+                    <img> <a href="http://tinypic.com?ref=2mi3wl" target="blank"><img alt=
+                    "Image and video hosting by TinyPic" border="0" src=
+                    "http://i58.tinypic.com/2mi3wl.jpg"></a>
+
+                     <h2>Jackson Polluck Painting in Khan Academy</h2>
+
+                     <h2>This version of a Jackson Polluck Painting with a space
+                    girl in it and using Javascript on my own was a bit of a
+                    complicated thing as making it multiply every time I moved
+                    the mouse was a complicated thing. It took me about three
+                    hours or so to get it where I wanted it, but it's still not
+                    the best.</h2><a href="http://tinypic.com?ref=2uh8h77" target="blank"><img alt=
+                    "Image and video hosting by TinyPic" border="0" src=
+                    "http://i59.tinypic.com/2uh8h77.png"></a>
+
+                    <div data-role="page" id="content2"></div>
+                     <h2> Hellhound Studios, DENGEL CORPERATIONS and the Future<h2>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
