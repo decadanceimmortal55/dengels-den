@@ -7,4 +7,4 @@ Author: Nyah Gilmore-Logan
 
 If you want me to do an art/animation commission or want me to build you a website, contact me at:
 nyah.gilmore@yahoo.com
-Also, visit my previous website produced by my three othee colleagues at vfash.github.io
+Also, visit my previous website produced by my three other colleagues at vfash.github.io
